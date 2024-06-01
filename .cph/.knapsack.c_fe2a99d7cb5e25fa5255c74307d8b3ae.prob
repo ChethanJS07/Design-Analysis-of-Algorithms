@@ -1,0 +1,1 @@
+{"name":"Local: knapsack","url":"c:\\Users\\chethan j s\\Downloads\\DAA\\knapsack.c","tests":[{"id":1714668066282,"input":"4\n1 2 5 6\n2 3 4 5\n8","output":"0 1 0 1\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\chethan j s\\Downloads\\DAA\\knapsack.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: polarangle","url":"c:\\Users\\chethan j s\\Downloads\\DAA\\polarangle.c","tests":[{"id":1714668536559,"input":"8\n3 1\n1 0\n3 0\n4 0\n1 -2\n5 -2\n2 -4\n4 -4","output":"7\n8 6 4 3 1 2 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\chethan j s\\Downloads\\DAA\\polarangle.c","group":"local","local":true}
